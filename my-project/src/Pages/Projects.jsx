@@ -17,7 +17,7 @@ function Project() {
   },
   {
     id:3,
-    title:"FoodCart Website",
+    title:"Culinary Express Website",
     desc:"A dynamic food ordering platform with menu browsing, cart functionality, and checkout process. Implemented state management for tracking orders with a mobile-friendly interface.",
     link:"https://gokulsiva123.github.io/Food-Cart/",
     technologies:["HTML","React Js","Tailwind CSS"]
