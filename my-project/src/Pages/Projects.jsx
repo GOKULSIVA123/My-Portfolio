@@ -10,10 +10,10 @@ function Project() {
   },
   {
     id:2,
-    title:"Pastry Site",
-    desc:"A visually appealing pastry shop website featuring product showcases and responsive design. Created smooth animations and intuitive navigation to enhance the browsing experience.",
-    link:"https://gokulsiva123.github.io/cosmosite.github.io/",
-    technologies:["HTML","CSS","JS"]
+    title:"CosmoGadgets E-commerce site",
+    desc:"CosmoGadgets is a sleek React-based e-commerce site for wireless audio tech, featuring bold visuals and exclusive discounts.The platform offers dynamic product showcases, smooth navigation, and a fully responsive design for effortless shopping.",
+    link:"https://gokulsiva123.github.io/My-Electro-Ecommerce/",
+    technologies:["React Js","Taiwind Css","JS","Html"]
   },
   {
     id:3,
@@ -77,7 +77,7 @@ function Project() {
                 {
                   item.technologies.map((item1,index)=>(
                     
-                    <div key={index} className='bg-indigo-300 rounded-full p-2 text-white mt-2 hover:cursor-pointer'>
+                    <div key={index} className='bg-purple-600 rounded-full px-4 py-2 text-white mt-2 hover:cursor-pointer'>
                     {item1}
                     </div>
                   ))
