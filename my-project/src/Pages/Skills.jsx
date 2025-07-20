@@ -8,7 +8,12 @@ function Skills() {
         {name:"CSS",Proficiency:75},
         {name:"JAVASCRIPT",Proficiency:70},
         {name:"TAILWIND CSS",Proficiency:80},
-        {name:"REACT JS",Proficiency:65}
+        {name:"REACT JS",Proficiency:70},
+        {name:'PYTHON',proficiency:80},
+        {name:'FLASK',proficiency:50},
+        {name:'DOCKER',proficiency:65},
+        {name:'Frappe Framework(Low code-No Code)',proficiency:70},
+        {name:'SQLITE',proficiency:55}
     ],
     soft:[
         {name:"Communication",Proficiency:65},
